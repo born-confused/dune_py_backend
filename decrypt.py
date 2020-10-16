@@ -1,7 +1,7 @@
 import sys as commandLine
 import time
 
-private_key = "CHIPKALI"
+private_key = "MAGARAMCH"
 
 def displayLoading(showTime):
     while showTime > 0:
